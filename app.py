@@ -18,7 +18,7 @@ st.sidebar.markdown("""
 st.sidebar.subheader("Source")
 st.sidebar.markdown("""
     The model was trained using publicly available **chest X-ray datasets**.
-    - [Dataset Source](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray/data)
+    - [Dataset Source](https://github.com/Omkar2703/Pneumonia-X-ray-detection.git)
 """)
 
 # Title with custom styling
